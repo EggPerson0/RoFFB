@@ -7,7 +7,10 @@ IMPORTANT TIPS/INSTRUCTIONS:
 How to Use RoFFB:
 
 1.  download RoFFB.zip from the most recent release and extract.
-2.  open RoFFB.exe and install .net if propted.
+2.  Open Roblox Studio and insert FFBPlugin.rbxm
+3.  Ugroup and drag the FFBPlugin into the Plugins folder of any A-Chassis Car.
+4.  open RoFFB.exe and install .net if propted.
+5.  Follow the steps below next to bind your peripherals.
 
 Binding:
 1. first select your target device from the bottom drop down.
@@ -20,3 +23,5 @@ Binding:
 
 Bindings save only on program exit.
 Bindings are stored in bindings.txt
+
+
