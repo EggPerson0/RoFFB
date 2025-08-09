@@ -1,5 +1,4 @@
-<img width="780" height="342" alt="image" src="https://github.com/user-attachments/assets/573856d1-1af6-4cc6-9096-ae3b802e91fe" />
-<img width="782" height="346" alt="image" src="https://github.com/user-attachments/assets/4a2a11a5-eb0a-4c96-81d0-3b743987b399" />
+
 
 
 # 🏎️ RoFFB
@@ -58,6 +57,8 @@ RoFFB allows you to:
 1. The program will automatically use the most recent button pressed on the selected device.
 2. Just select the Button option and press the bind button.
 
+<img width="390" height="171" alt="image" src="https://github.com/user-attachments/assets/573856d1-1af6-4cc6-9096-ae3b802e91fe" />
+
    ---
 
 ### 5️⃣ Setting Up Force Feedback
@@ -65,5 +66,8 @@ RoFFB allows you to:
 1. Navigate to the **Force tab** and select your target device from the dropdown.
 2. Ensure the Force Enabled checkbox is marked on.
 3. Press the TestForce button to ensure the connection to your selected device is correct.
+
+
+<img width="391" height="173" alt="image" src="https://github.com/user-attachments/assets/4a2a11a5-eb0a-4c96-81d0-3b743987b399" />
 
 
