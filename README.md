@@ -47,11 +47,13 @@ RoFFB allows you to:
 
 ### 4️⃣ How To Bind
 
-1. Navigate to the Bind tab and select your target device from the lower dropdown.
+1. Navigate to the Bind tab and select your target device from the **lower dropdown**.
 2. Interact with your target device's axis or button and note the corisponding axis on the display.
-3. Select your target bind from the upper dropdown.
-**Bindding an Axis**
+3. Select your target bind from the **upper dropdown**.
+---
+**Binding an Axis**
 1. Select the axis you want to bind and press the bind button.
+---
 **Binding a Button**
 1. The program will automatically use the most recent button pressed on the selected device.
 2. Just select the Button option and press the bind button.
