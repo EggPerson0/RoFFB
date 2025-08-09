@@ -4,8 +4,7 @@
 
 # 🏎️ RoFFB
 
-**RoFFB** is a Windows **.NET** application that uses [ViGEm](https://vigem.org/) and [DirectInput](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ee417001(v=vs.85)) to connect **Force Feedback racing wheels** and related peripherals to **Roblox**.  
-It bridges the gap between professional-grade racing hardware and Roblox games, enabling realistic **force feedback**, pedal inputs, and more.
+**RoFFB** is a Windows **.NET** application that uses [ViGEm](https://vigem.org/) and [DirectInput](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ee417001(v=vs.85)) to connect **Force Feedback racing wheels** and related peripherals to **Roblox** enabling realistic **force feedback**, pedal inputs, and more.
 
 ---
 
@@ -17,8 +16,6 @@ RoFFB allows you to:
 - Translate real-time **Force Feedback** effects from Roblox into physical feedback on your wheel.
 - Customize input mapping and tuning for your specific hardware.
 
-This makes it possible to experience **true simulation-style racing** inside Roblox.
-
 ---
 
 ## ⚙️ Instructions
@@ -27,6 +24,7 @@ This makes it possible to experience **true simulation-style racing** inside Rob
 - Windows 10/11 (64-bit)
 - [.NET Desktop Runtime 6.0+](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - [ViGEmBus Driver](https://vigem.org/download/)
+- You can Download ViGEmBus from either the link above or using the DriverSetup.eve included in the .zip
 - A DirectInput-compatible racing wheel or pedal set
 
 ---
@@ -34,7 +32,7 @@ This makes it possible to experience **true simulation-style racing** inside Rob
 ### 2️⃣ Installation
 1. Download the latest release from the [Releases](../../releases) page.
 2. Extract the `.zip` file to any folder.
-3. Ensure the **ViGEmBus driver** is installed.
+3. Ensure the **ViGEmBus driver** is installed properly. 
 4. Run `RoFFB.exe`.
 
 ---
@@ -47,22 +45,14 @@ This makes it possible to experience **true simulation-style racing** inside Rob
 
 ---
 
-### 4️⃣ Notes
-- Some Roblox games must explicitly support **RoFFB** to send Force Feedback data.
-- Keep the app running in the background while you play.
+### 4️⃣ How To Bind
 
----
+1. Navigate to the Bind tab and select your target device from the lower dropdown.
+2. Interact with your target device's axis or button and note the corisponding axis on the display.
+3. Select your target bind from the upper dropdown.
+**Bindding an Axis**
+1. Select the axis you want to bind and press the bind button.
+**Binding a Button**
+1. The program will automatically use the most recent button pressed on the selected device.
+2. Just select the Button option and press the bind button.
 
-## 🖼️ Screenshots (Optional)
-*(Add images here once you have UI screenshots)*
-
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-Pull requests and suggestions are welcome!  
-If you encounter issues, please open a ticket in the [Issues](../../issues) tab.
