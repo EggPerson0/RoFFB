@@ -47,7 +47,7 @@ RoFFB allows you to:
 
 ### 4️⃣ How To Bind
 
-1. Navigate to the Bind tab and select your target device from the **lower dropdown**.
+1. Navigate to the **Bind tab** and select your target device from the **lower dropdown**.
 2. Interact with your target device's axis or button and note the corisponding axis on the display.
 3. Select your target bind from the **upper dropdown**.
 
@@ -57,4 +57,13 @@ RoFFB allows you to:
 **Binding a Button**
 1. The program will automatically use the most recent button pressed on the selected device.
 2. Just select the Button option and press the bind button.
+
+   ---
+
+### 5️⃣ Setting Up Force Feedback
+
+1. Navigate to the **Force tab** and select your target device from the dropdown.
+2. Ensure the Force Enabled checkbox is marked on.
+3. Press the TestForce button to ensure the connection to your selected device is correct.
+
 
